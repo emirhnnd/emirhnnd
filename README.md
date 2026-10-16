@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Emirhan%20DEDE&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%E2%80%A2%20Testing%20%26%20QA&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Emirhan%20DEDE&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Testing%20and%20QA&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://github.com/emirhnnd">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4FC3F7&center=true&vCenter=true&width=520&lines=Building+web+apps+with+React+%2B+TypeScript;Writing+tests+that+catch+bugs+early;Exploring+AI-powered+QA+and+automation" alt="Typing SVG" />
@@ -59,8 +59,6 @@
 ---
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=emirhnnd&color=4fc3f7&style=flat-square&label=Profile+Views" alt="Profile views" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
 
