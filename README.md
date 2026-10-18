@@ -23,7 +23,7 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=ts,js,python,cs,cpp&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,cs,cpp,html,css&theme=dark" alt="Tech stack" />
 </p>
 
 ---
